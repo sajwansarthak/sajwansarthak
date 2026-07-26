@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Sarthak, a prefinal-year college student passionate about coding and technology. I'm a Full Stack Web Developer with a keen interest in Data Science and Machine Learning. I love building impactful applications and exploring the endless possibilities of data.<br><br>
+Hi there! 👋<br>I'm Sarthak, a final-year college student passionate about coding and technology. I'm a Full Stack Web Developer with a keen interest in artificial intelligence and generative ai. I love building impactful applications and exploring the endless possibilities of data.<br><br>
 
 
 ## 🌐 Socials:
